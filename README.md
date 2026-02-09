@@ -13,7 +13,8 @@ features:
 
 ## Using this template
 
-[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+- [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+- [Customizing the template](/docs/customization.md)
 
 ## Running PMT
 
